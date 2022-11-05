@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Ericlei Rosário ! 👋
 
-- 🔭 Atualmento não estou trabalhando como Dev !
+- 🔭 Atualmente não estou trabalhando como Dev !
 - 🌱 Estou estudando linguagens para Front-End
 - 👯 Liguagens de estudos HTML | CSS | JavaScript
 

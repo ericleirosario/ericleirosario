@@ -3,15 +3,15 @@
     Oi Tudo bem? Eu sou o 
     <a href="https://www.linkedin.com/in/ericleirosario/">Ericlei Rosário 😃️</a>
   </h1>
-  <h2 align="center">
+  <p align="center">
     - Atualmente não estou trabalhando como Dev !
-  </h2>  
-  <h2 align="center">
+  </p>  
+  <p align="center">
     - Estou estudando linguagens para Front-End
-  </h2>  
-  <h2 align="center">  
+  </p>  
+  <p align="center">  
     - Liguagens de estudos HTML | CSS | JavaScript  
-  </h2>
+  </p>
       
   <p align="center">
     Já se inscreve aí e vem codar comigo, tua contribuição será muito bem vinda, vlw mesmo! 😉️

@@ -1,6 +1,5 @@
 ### Olá, Me Chamo Ericlei Rosário! 👋
-- Desenvolvedor Front-End, com conhecimentos em HTML e CSS, e ja criei alguns projetos com essas tecnologias.
-- Atualmente estou procurando me aprimorar, estudando JavaScript e React.
+- Desenvolvedor Front-End, apaixonado por tecnologia buscando me aprimorar para conseguir realizar sonhos e abjetivos através da programação.
 
 ## **Tecnologias e Ferramentas:** 
 <div style="display: inline_block">

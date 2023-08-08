@@ -15,7 +15,7 @@
   <a href="https://github.com/ericleirosario/github-readme-stats">
     <img width=400 height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=ericleirosario&show_icons=true&theme=transparent&include_all_commits" />
   </a>
-  <a href="https://github.com/ericleirosario/convoychat">
+  <a href="https://github.com/ericleirosario/github-readme-stats">
   <img width=400 height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ericleirosario&layout=compact&langs_count=5&theme=transparent&card_width=100" />
   </a>
 </div>

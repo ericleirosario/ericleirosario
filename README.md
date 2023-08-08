@@ -1,5 +1,5 @@
-💫Sobre mim:
 ### Olá, eu sou o Ericlei Rosário 👋
+💫Sobre mim:
 - Desenvolvedor Front-End, com conhecimentos em HTML e CSS, e ja criei alguns projetos com essas tecnologias.
 - Atualmente estou procurando me aprimorar, estudando JavaScript e React.
 

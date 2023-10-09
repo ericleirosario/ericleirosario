@@ -1,4 +1,4 @@
-### Olá, Me Chamo Ericlei Rosário! 👋
+# Olá, Me Chamo Ericlei Rosário! 👋
 - Desenvolvedor Front-End, apaixonado por tecnologia buscando me aprimorar para conseguir realizar sonhos e abjetivos através da programação.
 
 ## **Tecnologias e Ferramentas:** 

@@ -13,8 +13,6 @@
 
 🌟 Vamos colaborar e criar coisas incríveis juntos!
 
-📫 Você pode entrar em contato comigo em [Seu E-mail] ou me encontrar no [LinkedIn](seu-linkedin) para discutir projetos, compartilhar conhecimento ou simplesmente bater um papo sobre tecnologia.
-
 🔗 Confira meus projetos e contribuições abaixo. Mal posso esperar para trabalhar em conjunto!
 
 
@@ -38,7 +36,7 @@
 </div>
   
   ## **Vamos nos Conectar:**
- 
+ 📫 Você pode entrar em contato comigo através de meu E-mail ou me encontrar no LinkedIn para discutir projetos, compartilhar conhecimento ou simplesmente bater um papo sobre tecnologia.
 <div align="center">
   <a href="https://www.linkedin.com/in/ericleirosario" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/_ericleirosario" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 	

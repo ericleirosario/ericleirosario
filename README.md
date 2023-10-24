@@ -1,5 +1,22 @@
-# Olá, Me Chamo Ericlei Rosário! 👋
-- Desenvolvedor Front-End, apaixonado por tecnologia buscando me aprimorar para conseguir realizar sonhos e abjetivos através da programação.
+👋 # Olá, eu sou Ericlei Rosário!
+
+🚀 Desenvolvedor Front-End apaixonado por tecnologia e em constante busca por aprimoramento para transformar sonhos em realidade por meio da programação.
+
+💼 Atualmente, meu foco está nas seguintes tecnologias:
+   - HTML
+   - CSS
+   - JavaScript
+   - ReactJS
+   - NodeJS
+
+💡 Estou sempre em busca de novos desafios e oportunidades para expandir meu conhecimento e aprimorar minhas habilidades. Sou entusiasta de criar interfaces atraentes e funcionais, e estou comprometido em entregar produtos de alta qualidade.
+
+🌟 Vamos colaborar e criar coisas incríveis juntos!
+
+📫 Você pode entrar em contato comigo em [Seu E-mail] ou me encontrar no [LinkedIn](seu-linkedin) para discutir projetos, compartilhar conhecimento ou simplesmente bater um papo sobre tecnologia.
+
+🔗 Confira meus projetos e contribuições abaixo. Mal posso esperar para trabalhar em conjunto!
+
 
 ## **Tecnologias e Ferramentas:** 
 <div style="display: inline_block" align="center">

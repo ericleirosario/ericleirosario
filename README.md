@@ -1,4 +1,4 @@
-👋 # Olá, eu sou Ericlei Rosário!
+# 👋 Olá, eu sou Ericlei Rosário!
 
 🚀 Desenvolvedor Front-End apaixonado por tecnologia e em constante busca por aprimoramento para transformar sonhos em realidade por meio da programação.
 

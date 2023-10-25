@@ -13,8 +13,6 @@
 
 🌟 Vamos colaborar e criar coisas incríveis juntos!
 
-🔗 Confira meus projetos e contribuições abaixo. Mal posso esperar para trabalhar em conjunto!
-
 
 ## **Tecnologias e Ferramentas:** 
 <div style="display: inline_block" align="center">
@@ -41,3 +39,6 @@
  <a href="https://discord.gg/ericleirosario" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:ericleirosario@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>  
 </div>
+
+## **Projetos e Contribuições:**
+🔗 Confira meus projetos e contribuições abaixo. Mal posso esperar para trabalhar em conjunto!

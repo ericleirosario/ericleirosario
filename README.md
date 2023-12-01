@@ -9,7 +9,7 @@
    - ReactJS
    - NodeJS
 
-💡 Estou sempre em busca de novos desafios e oportunidades para expandir meu conhecimento e aprimorar minhas habilidades. Possuo conhecimentos para criar interfaces atraentes e funcionais, e estou comprometido em entregar aplicações de alta qualidade.
+💡 Estou sempre em busca de novos desafios e oportunidades para expandir meus conhecimentos e aprimorar minhas habilidades. Possuo conhecimentos para criar interfaces atraentes e funcionais, e estou comprometido em entregar aplicações de alta qualidade.
 
 🌟 Vamos colaborar e criar coisas incríveis juntos!
 

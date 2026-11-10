@@ -31,8 +31,8 @@ Meu objetivo é transformar conhecimento em projetos práticos, desenvolver boas
 
 🤝 Vamos nos conectar?
 
-- "LinkedIn" (https://www.linkedin.com/in/ericleirosario/)
-- "GitHub" (https://github.com/ericleirosario)
+- [LinkedIn](https://www.linkedin.com/in/ericleirosario/)
+- [GitHub](https://github.com/ericleirosario)a
 
 ---
 
